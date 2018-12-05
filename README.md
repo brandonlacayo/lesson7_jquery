@@ -13,8 +13,7 @@ Brandon Lacayo
 Learning how to use jQuery to make programming easier for the user.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://brandonlacayo.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
 1. jQuery is way faster and easier than Javascript.
