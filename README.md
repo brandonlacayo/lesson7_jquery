@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 4, 2018
 
 ### Student Name:  
-(First and Last Name)
+Brandon Lacayo
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Learning how to use jQuery to make programming easier for the user.
 
 ### View Project Online:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery is way faster and easier than Javascript.
+2. Invoking a function with event listeners connected to elements.
+3. How to view multiple versions of an HTML without permanently changing them.
 
